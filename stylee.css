@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background:#080013d3;
+   
+}
+/* 
+navbar{
+    background-color: white;
+} */
+.nav-link{
+    color:white;
+    font-size: medium;
+    font-weight: 400;
+    text-decoration:none;
+}
+.navbar-brand{
+    color:white;
+    font-size: large;
+    font-weight: 1000;
+    width:100%;
+    padding:20px 10%;
+    font-style:italic;
+   
+
+}
+
+
+.nav-link:hover{
+    color: white;
+    background-color: black;
+}
+.navbar-toggler-icon{
+    color: white;
+
+}
+
+.intro h1{
+    font-size:40px;
+    font-weight: 500px;
+    color:white;
+    line-height: 1.2;
+}
+.intro h3{
+    font-size:32px;
+    font-weight: 100px;
+    color: hsla(192, 100%, 55%, 0.616);
+
+}
+.intro p{
+    font-size: 16px;
+    margin: 20px 0 40px;
+    color:white;
+}
